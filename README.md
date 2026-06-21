@@ -1,2 +1,2 @@
-# NUVIO-STREMIO-COVERS
+# NUVIO-STREMIO-SETUP
 Self-Made Ai Generated Covers for collection
